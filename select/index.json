@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "KISS&CANDY",
+  "base_artist": "すりぃ",
+  "createdAt": "2026-02-06T02:31:08.528514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KISS CANDY FLAVOR",
+      "artist": "カラフル・サウンズ・ポート",
+      "has_synced": false,
+      "path": "select/01_KISS_CANDY_FLAVOR_カラフル・サウンズ・ポート.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KISS CANDY FLAVOR",
+      "artist": "Colorful Sounds Port",
+      "has_synced": false,
+      "path": "select/02_KISS_CANDY_FLAVOR_Colorful_Sounds_Port.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KISS&CANDY",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_KISS&CANDY_すりぃ.txt"
+    }
+  ]
+}
